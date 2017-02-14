@@ -1,4 +1,4 @@
 # CodeWizards
 Russian AI Cup 2016: CodeWizards (http://russianaicup.ru)
 
-Barely Top 100.
+Just in Top 100 (at the time of the closing :-). 
